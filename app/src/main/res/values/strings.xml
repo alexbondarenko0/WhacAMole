@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">Whac A Mole</string>
+    <string name="score">Score</string>
+    <string name="time">Time</string>
+    <string name="zero">0</string>
+    <string name="_30">30</string>
+    <string name="_0">0</string>
+    <string name="whac_a_mole" translatable="false">Whac-A-Mole</string>
+    <string name="hit_the_largest_number_of_moles_in_30_seconds">Hit the largest number of moles in 30 seconds</string>
+    <string name="record">Record</string>
+    <string name="play">Play!</string>
+    <string name="reset_record">Reset record</string>
+    <string name="new_record_congratulations">New Record, Congratulations!</string>
+    <string name="play_again">Play again</string>
+    <string name="main_menu">Main Menu</string>
+</resources>
